@@ -1,0 +1,66 @@
+{
+  "name": "ALZA gym — Entrenamiento adaptativo",
+  "short_name": "ALZA gym",
+  "description": "Tu plan de gimnasio, entrenos activos y progreso siempre sincronizados.",
+  "lang": "es",
+  "id": "/",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f2f5f1",
+  "theme_color": "#171c19",
+  "prefer_related_applications": false,
+  "categories": ["fitness", "health", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icons/alza-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/alza-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/alza-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Entreno de hoy",
+      "short_name": "Entreno",
+      "description": "Abrir el entrenamiento actual o el previsto para hoy",
+      "url": "/?quick=workout",
+      "icons": [{ "src": "/icons/alza-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Calendario",
+      "short_name": "Calendario",
+      "description": "Ver la agenda de entrenamientos",
+      "url": "/?quick=calendar",
+      "icons": [{ "src": "/icons/alza-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Registrar progreso",
+      "short_name": "Progreso",
+      "description": "Añadir medidas y fotografías privadas",
+      "url": "/?quick=progress",
+      "icons": [{ "src": "/icons/alza-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Comunidad privada",
+      "short_name": "Comunidad",
+      "description": "Ver logros, rutinas compartidas y retos privados",
+      "url": "/?quick=social",
+      "icons": [{ "src": "/icons/alza-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
