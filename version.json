@@ -1,0 +1,22 @@
+{
+  "app": "ALZA gym",
+  "platform": "android",
+  "version": "1.10.4",
+  "versionCode": 230,
+  "minimumAndroid": 9,
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.4/ALZA-gym-Android-v1.10.4.apk",
+  "sha256": "8547D29B9E7056981BC62E5572632E6DE3397B171B4D173E2A4E7A790F1AAA68",
+  "publishedAt": "2026-08-23",
+  "notes": [
+    "ALZA arranca desde la aplicación instalada y ya no necesita descargar la web para abrir.",
+    "Entrenamientos, Health Connect, progreso, fotos, retos y privacidad se sincronizan directamente con el Supabase exclusivo de ALZA.",
+    "Las actualizaciones usan Cloudflare y un espejo independiente con verificación de hash, versión, paquete y firma."
+  ],
+  "wearOs": {
+    "version": "1.10.4",
+    "versionCode": 231,
+    "minimumWearOs": 3,
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.4/ALZA-gym-WearOS-v1.10.4.apk",
+    "sha256": "2B9AB3ED1B4E0924FEC7C1892C6BD8114C29A592F0490DD4B17C3929E37A67A6"
+  }
+}
