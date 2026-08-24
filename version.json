@@ -1,24 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.5",
-  "versionCode": 240,
+  "version": "1.10.6",
+  "versionCode": 250,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.5/ALZA-gym-Android-v1.10.5.apk",
-  "sha256": "FB740E9A7DDBC85213516D78BE1C49687E11B42815904A00BC32F47BAA867E8A",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.6/ALZA-gym-Android-v1.10.6.apk",
+  "sha256": "7EFA86022BE68A8D6CD7FD2819BBDEF0EF7CC14C9BF052DEDAF615E5747EA86A",
   "publishedAt": "2026-08-24",
   "notes": [
-    "La actualización elimina el service worker y las cachés heredadas que podían dejar la app cargando la versión web antigua.",
-    "ALZA arranca desde los archivos incluidos en la aplicación, incluso cuando la red está lenta o no responde.",
-    "La sesión y los datos locales del usuario se conservan durante la reparación.",
-    "Entrenamientos, Health Connect, progreso, fotos, retos y privacidad se sincronizan directamente con el Supabase exclusivo de ALZA.",
+    "La sección Medidas estrena una figura humana frontal con anatomía natural y proporciones reconocibles.",
+    "Hombros, pecho, cintura y cadera modifican su propia zona de la figura.",
+    "Brazos, antebrazos, muslos y gemelos usan por separado los valores izquierdo y derecho.",
     "La APK mantiene el paquete y el certificado original para instalarse como actualización."
   ],
   "wearOs": {
-    "version": "1.10.5",
-    "versionCode": 241,
+    "version": "1.10.6",
+    "versionCode": 251,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.5/ALZA-gym-WearOS-v1.10.5.apk",
-    "sha256": "63AD22539B66B3E1F426F4D53DE77F88B39AF52B50BDF48985D6C2A32585C91D"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.6/ALZA-gym-WearOS-v1.10.6.apk",
+    "sha256": "55B187D492C25C971A46FB3C76AE8F18BB7F313B3493864DBA85036B220C688B"
   }
 }
