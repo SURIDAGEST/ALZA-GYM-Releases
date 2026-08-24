@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.7",
-  "versionCode": 260,
+  "version": "1.10.8",
+  "versionCode": 270,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.7/ALZA-gym-Android-v1.10.7.apk",
-  "sha256": "F8686947B21AA8A4B17047A7701AA128E2ECF4CF258F0CA4F4666B62B14FE819",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.8/ALZA-gym-Android-v1.10.8.apk",
+  "sha256": "6F2464BC10476B563CF01CFAC679F7DAA01B26CB934E60A20066D0AC26DC2F70",
   "publishedAt": "2026-08-24",
   "notes": [
-    "La figura de Medidas deja de ser un maniquí verde y adopta un aspecto humano natural.",
-    "Piel, rostro, pelo, camiseta, pantalón y calzado siguen el estilo visual de los ejercicios.",
+    "La figura de Medidas adopta el contorno frontal humano de la referencia facilitada.",
+    "Muestra piel, pelo, ropa interior y pies descalzos, sin camiseta ni pantalones.",
     "Hombros, pecho, cintura, cadera y cada extremidad continúan respondiendo a sus medidas.",
     "La APK mantiene el paquete y el certificado original para instalarse como actualización."
   ],
   "wearOs": {
-    "version": "1.10.7",
-    "versionCode": 261,
+    "version": "1.10.8",
+    "versionCode": 271,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.7/ALZA-gym-WearOS-v1.10.7.apk",
-    "sha256": "DA29085A85DE878572283A495038AB52AAEF850136CE3F63B3923A953C37FAF8"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.8/ALZA-gym-WearOS-v1.10.8.apk",
+    "sha256": "57B10162D74054F3AB7BF2ED878ECBDE784975B0607226F81A42B98294B233B1"
   }
 }
