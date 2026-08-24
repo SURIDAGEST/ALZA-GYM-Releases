@@ -1,24 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.10",
-  "versionCode": 290,
+  "version": "1.10.11",
+  "versionCode": 300,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.10/ALZA-gym-Android-v1.10.10.apk",
-  "sha256": "1772CE364B48CBEADDE77FA41442E2447E150AD28C7195759EC6A5B6ED30E12A",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.11/ALZA-gym-Android-v1.10.11.apk",
+  "sha256": "FC1D0FF9DF4C86E6F581A66207BE0EACEAE1F8F53F91D4AEABF7D569F7590C7A",
   "publishedAt": "2026-08-24",
   "notes": [
-    "Las figuras masculina y femenina reproducen los dos contornos humanos de la referencia con curvas Bézier continuas.",
-    "Se han eliminado los segmentos rectos y las esquinas poligonales de hombros, brazos, cadera, piernas, manos y pies.",
-    "Piel, pelo y ropa interior se aplican sobre el contorno completo, sin camiseta, pantalones, calcetines ni calzado.",
-    "Hombros, pecho, cintura, cadera, brazos y piernas deforman el contorno mediante transiciones progresivas según sus medidas.",
+    "Se ha eliminado por completo la silueta corporal de la sección Medidas.",
+    "La sección conserva el formulario, los datos numéricos, las fotografías privadas y el historial de controles.",
     "La APK mantiene el paquete y el certificado original para instalarse como actualización."
   ],
   "wearOs": {
-    "version": "1.10.10",
-    "versionCode": 291,
+    "version": "1.10.11",
+    "versionCode": 301,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.10/ALZA-gym-WearOS-v1.10.10.apk",
-    "sha256": "229EAEC5F9356B846C5E43B028E9C58A18FCE693084FACA8A3BBF7F8B12AE8EC"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.11/ALZA-gym-WearOS-v1.10.11.apk",
+    "sha256": "9EAAD767D021F92788253744B9324F02F97F22ED3B6EB08F6BC164BED0C271B1"
   }
 }
