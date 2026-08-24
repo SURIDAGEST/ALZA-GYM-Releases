@@ -1,4 +1,4 @@
-const SHELL_CACHE = "alza-shell-v9";
+const SHELL_CACHE = "alza-shell-v10";
 const RUNTIME_CACHE = "alza-runtime-v9";
 const MAX_RUNTIME_ENTRIES = 80;
 const APP_SHELL = [
