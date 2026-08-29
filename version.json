@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.11",
-  "versionCode": 300,
+  "version": "1.10.12",
+  "versionCode": 310,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.11/ALZA-gym-Android-v1.10.11.apk",
-  "sha256": "FC1D0FF9DF4C86E6F581A66207BE0EACEAE1F8F53F91D4AEABF7D569F7590C7A",
-  "publishedAt": "2026-08-24",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.12/ALZA-gym-Android-v1.10.12.apk",
+  "sha256": "B43928533134AC0CEF4999E0E853746413A2D257561AB0B4C5DBD4A76A5F3A24",
+  "publishedAt": "2026-08-29",
   "notes": [
-    "Se ha eliminado por completo la silueta corporal de la sección Medidas.",
-    "La sección conserva el formulario, los datos numéricos, las fotografías privadas y el historial de controles.",
+    "Incluye todas las correcciones recientes de consistencia, seguridad y funcionamiento sin alterar tu cuenta ni tus datos.",
+    "Añade las guías realistas de ejercicios, aclara las cargas por lado en multipower y refuerza los avisos de descanso del reloj.",
     "La APK mantiene el paquete y el certificado original para instalarse como actualización."
   ],
   "wearOs": {
-    "version": "1.10.11",
-    "versionCode": 301,
+    "version": "1.10.12",
+    "versionCode": 311,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.11/ALZA-gym-WearOS-v1.10.11.apk",
-    "sha256": "9EAAD767D021F92788253744B9324F02F97F22ED3B6EB08F6BC164BED0C271B1"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.12/ALZA-gym-WearOS-v1.10.12.apk",
+    "sha256": "16530804D1F8247CEBBB3B6CB5D6B05E6B82778BFC8878EE302AA228A43C6E4D"
   }
 }
