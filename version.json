@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.13",
-  "versionCode": 320,
+  "version": "1.10.14",
+  "versionCode": 330,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.13/ALZA-gym-Android-v1.10.13.apk",
-  "sha256": "454755C6999CE92DC9DFCAAC6E546135E16758EE7D2F6981048A8C11226D06E4",
-  "publishedAt": "2026-09-02",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.14/ALZA-gym-Android-v1.10.14.apk",
+  "sha256": "042D8ECEBF13946E64CD8B33FF74411229AFEA0707AFB8B7CEFF213D1A25E0BE",
+  "publishedAt": "2026-09-03",
   "notes": [
-    "Añade preparación diaria, calentamientos progresivos y adaptación conservadora por dolor, energía y material disponible.",
-    "Permite importar entrenamientos de Hevy y Strong y mejora accesibilidad, sincronización offline y rendimiento.",
-    "Protege la sesión nativa con Android Keystore y mantiene el certificado original para instalarse como actualización."
+    "Sustituye Google Calendar por avisos propios para los próximos días de entrenamiento.",
+    "Refuerza recuperación de cuenta, exportación y borrado de datos, PWA, API y actualización Android.",
+    "Corrige incoherencias de interfaz, accesibilidad y modo demostración; conserva el certificado oficial para actualizar sin desinstalar."
   ],
   "wearOs": {
-    "version": "1.10.13",
-    "versionCode": 321,
+    "version": "1.10.14",
+    "versionCode": 331,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.13/ALZA-gym-WearOS-v1.10.13.apk",
-    "sha256": "B65C806515238484305BBE304A64263C56717EA1ED859C8C50FBCAA56E7E567C"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.14/ALZA-gym-WearOS-v1.10.14.apk",
+    "sha256": "F8F19EA98C1E4FE59C599C1D6EF29D183BFAC98350AD32930D483AD81120603C"
   }
 }
