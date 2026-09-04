@@ -1,0 +1,14 @@
+/sw.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/manifest.webmanifest
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/exercises/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/measurements/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/icons/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=2592000
