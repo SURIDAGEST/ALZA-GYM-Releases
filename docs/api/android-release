@@ -8,9 +8,9 @@
   "sha256": "AD96ABCFEB857CB1F0EF2A2FD977AF1CEAADA6F6E1B4B7DC0A52C3D5EEF57CE7",
   "publishedAt": "2026-09-04",
   "notes": [
-    "Restaura la sincronización del perfil y los entrenamientos cuando la ruta principal de Cloudflare no responde.",
-    "Evita el cierre al iniciar un entreno en dispositivos con una versión antigua de Android System WebView.",
-    "Mantiene los datos en el proyecto Supabase exclusivo de ALZA y conserva el Worker como ruta principal protegida."
+    "Mantiene disponible el inicio del entrenamiento aunque la carga inicial de red no termine.",
+    "Recupera la sincronización directa con el mismo proyecto Supabase cuando la ruta web o API no responde, también ante respuestas 404/405.",
+    "Evita el cierre en versiones antiguas de Android System WebView eliminando APIs JavaScript no compatibles."
   ],
   "wearOs": {
     "version": "1.10.16",
