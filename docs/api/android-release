@@ -1,23 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.7",
-  "versionCode": 260,
+  "version": "1.10.16",
+  "versionCode": 350,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.7/ALZA-gym-Android-v1.10.7.apk",
-  "sha256": "F8686947B21AA8A4B17047A7701AA128E2ECF4CF258F0CA4F4666B62B14FE819",
-  "publishedAt": "2026-08-24",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.16/ALZA-gym-Android-v1.10.16.apk",
+  "sha256": "AD96ABCFEB857CB1F0EF2A2FD977AF1CEAADA6F6E1B4B7DC0A52C3D5EEF57CE7",
+  "publishedAt": "2026-09-04",
   "notes": [
-    "La figura de Medidas deja de ser un maniquí verde y adopta un aspecto humano natural.",
-    "Piel, rostro, pelo, camiseta, pantalón y calzado siguen el estilo visual de los ejercicios.",
-    "Hombros, pecho, cintura, cadera y cada extremidad continúan respondiendo a sus medidas.",
-    "La APK mantiene el paquete y el certificado original para instalarse como actualización."
+    "Restaura la sincronización del perfil y los entrenamientos cuando la ruta principal de Cloudflare no responde.",
+    "Evita el cierre al iniciar un entreno en dispositivos con una versión antigua de Android System WebView.",
+    "Mantiene los datos en el proyecto Supabase exclusivo de ALZA y conserva el Worker como ruta principal protegida."
   ],
   "wearOs": {
-    "version": "1.10.7",
-    "versionCode": 261,
+    "version": "1.10.16",
+    "versionCode": 351,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.7/ALZA-gym-WearOS-v1.10.7.apk",
-    "sha256": "DA29085A85DE878572283A495038AB52AAEF850136CE3F63B3923A953C37FAF8"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.16/ALZA-gym-WearOS-v1.10.16.apk",
+    "sha256": "6A40E896742F32B9F5308C9C734F0489103876D12E007775B3A2885F307C91D4"
   }
 }

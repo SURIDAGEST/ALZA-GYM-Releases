@@ -1,11 +1,11 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.15",
-  "versionCode": 340,
+  "version": "1.10.16",
+  "versionCode": 350,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.15/ALZA-gym-Android-v1.10.15.apk",
-  "sha256": "57CCF8CADD26250A285F1847CA0D8EAB8DF67F03F74D200FCA17FE5B1AECB83D",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.16/ALZA-gym-Android-v1.10.16.apk",
+  "sha256": "AD96ABCFEB857CB1F0EF2A2FD977AF1CEAADA6F6E1B4B7DC0A52C3D5EEF57CE7",
   "publishedAt": "2026-09-04",
   "notes": [
     "Restaura la sincronización del perfil y los entrenamientos cuando la ruta principal de Cloudflare no responde.",
@@ -13,10 +13,10 @@
     "Mantiene los datos en el proyecto Supabase exclusivo de ALZA y conserva el Worker como ruta principal protegida."
   ],
   "wearOs": {
-    "version": "1.10.15",
-    "versionCode": 341,
+    "version": "1.10.16",
+    "versionCode": 351,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.15/ALZA-gym-WearOS-v1.10.15.apk",
-    "sha256": "4E46CD982DF51C650C28CBE938119B3B9B312ABD545FAE31EF48547DE9CBD81F"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.16/ALZA-gym-WearOS-v1.10.16.apk",
+    "sha256": "6A40E896742F32B9F5308C9C734F0489103876D12E007775B3A2885F307C91D4"
   }
 }
