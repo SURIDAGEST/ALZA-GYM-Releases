@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.14",
-  "versionCode": 330,
+  "version": "1.10.15",
+  "versionCode": 340,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.14/ALZA-gym-Android-v1.10.14.apk",
-  "sha256": "042D8ECEBF13946E64CD8B33FF74411229AFEA0707AFB8B7CEFF213D1A25E0BE",
-  "publishedAt": "2026-09-03",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.15/ALZA-gym-Android-v1.10.15.apk",
+  "sha256": "57CCF8CADD26250A285F1847CA0D8EAB8DF67F03F74D200FCA17FE5B1AECB83D",
+  "publishedAt": "2026-09-04",
   "notes": [
-    "Sustituye Google Calendar por avisos propios para los próximos días de entrenamiento.",
-    "Refuerza recuperación de cuenta, exportación y borrado de datos, PWA, API y actualización Android.",
-    "Corrige incoherencias de interfaz, accesibilidad y modo demostración; conserva el certificado oficial para actualizar sin desinstalar."
+    "Restaura la sincronización del perfil y los entrenamientos cuando la ruta principal de Cloudflare no responde.",
+    "Evita el cierre al iniciar un entreno en dispositivos con una versión antigua de Android System WebView.",
+    "Mantiene los datos en el proyecto Supabase exclusivo de ALZA y conserva el Worker como ruta principal protegida."
   ],
   "wearOs": {
-    "version": "1.10.14",
-    "versionCode": 331,
+    "version": "1.10.15",
+    "versionCode": 341,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.14/ALZA-gym-WearOS-v1.10.14.apk",
-    "sha256": "F8F19EA98C1E4FE59C599C1D6EF29D183BFAC98350AD32930D483AD81120603C"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.15/ALZA-gym-WearOS-v1.10.15.apk",
+    "sha256": "4E46CD982DF51C650C28CBE938119B3B9B312ABD545FAE31EF48547DE9CBD81F"
   }
 }
