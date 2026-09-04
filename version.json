@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.16",
-  "versionCode": 350,
+  "version": "1.10.17",
+  "versionCode": 360,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.16/ALZA-gym-Android-v1.10.16.apk",
-  "sha256": "AD96ABCFEB857CB1F0EF2A2FD977AF1CEAADA6F6E1B4B7DC0A52C3D5EEF57CE7",
-  "publishedAt": "2026-09-04",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.17/ALZA-gym-Android-v1.10.17.apk",
+  "sha256": "E7A8F590918706697CBA2839E631F4C24A734FDB63A9A1E8E876F13F0D9488EA",
+  "publishedAt": "2026-09-05",
   "notes": [
-    "Mantiene disponible el inicio del entrenamiento aunque la carga inicial de red no termine.",
-    "Recupera la sincronización directa con el mismo proyecto Supabase cuando la ruta web o API no responde, también ante respuestas 404/405.",
-    "Evita el cierre en versiones antiguas de Android System WebView eliminando APIs JavaScript no compatibles."
+    "Recupera entrenamientos guardados con registros de ejercicios incompletos, conservando las series válidas.",
+    "El inicio del entrenamiento ya no solicita automáticamente permisos de notificaciones ni abre la aplicación del reloj.",
+    "Protege el entrenamiento frente a errores de las integraciones nativas opcionales de Android."
   ],
   "wearOs": {
-    "version": "1.10.16",
-    "versionCode": 351,
+    "version": "1.10.17",
+    "versionCode": 361,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.16/ALZA-gym-WearOS-v1.10.16.apk",
-    "sha256": "6A40E896742F32B9F5308C9C734F0489103876D12E007775B3A2885F307C91D4"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.17/ALZA-gym-WearOS-v1.10.17.apk",
+    "sha256": "9D84DC0BA7F021878A9F7711BDD4063D00FED285B62D9082CBE5E2D17C07F041"
   }
 }
