@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.10.17",
-  "versionCode": 360,
+  "version": "1.10.18",
+  "versionCode": 370,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.17/ALZA-gym-Android-v1.10.17.apk",
-  "sha256": "E7A8F590918706697CBA2839E631F4C24A734FDB63A9A1E8E876F13F0D9488EA",
-  "publishedAt": "2026-09-05",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.18/ALZA-gym-Android-v1.10.18.apk",
+  "sha256": "ACBE9D2E673204580EDF1AF959DF167E424DFEBDD7133C8FCAD997E0BC5F2248",
+  "publishedAt": "2026-09-08",
   "notes": [
-    "Recupera entrenamientos guardados con registros de ejercicios incompletos, conservando las series válidas.",
-    "El inicio del entrenamiento ya no solicita automáticamente permisos de notificaciones ni abre la aplicación del reloj.",
-    "Protege el entrenamiento frente a errores de las integraciones nativas opcionales de Android."
+    "Protege los cambios pendientes y la sincronización al cambiar de cuenta o recuperar la conexión.",
+    "Corrige importación, exportación, calendario y validaciones, incluida la clasificación completa de retos.",
+    "Conserva las series enviadas por el reloj con retraso; actualiza móvil y Wear OS."
   ],
   "wearOs": {
-    "version": "1.10.17",
-    "versionCode": 361,
+    "version": "1.10.18",
+    "versionCode": 371,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.17/ALZA-gym-WearOS-v1.10.17.apk",
-    "sha256": "9D84DC0BA7F021878A9F7711BDD4063D00FED285B62D9082CBE5E2D17C07F041"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.10.18/ALZA-gym-WearOS-v1.10.18.apk",
+    "sha256": "91ADC566659A0A87979D9447A81E68CEB2A1FF7EE38628610F37F89EECD46A4F"
   }
 }
