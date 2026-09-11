@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.11.0",
-  "versionCode": 390,
+  "version": "1.11.1",
+  "versionCode": 400,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.11.0/ALZA-gym-Android-v1.11.0.apk",
-  "sha256": "03BE4EC5F7E449B566FE68D5096609C46618AEB3EA4ED285EAD152B1495A92EB",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.11.1/ALZA-gym-Android-v1.11.1.apk",
+  "sha256": "4167EE3E75E7BD1D737225CA9D2BBFD3AFA15C19423386597900E3E797748E5D",
   "publishedAt": "2026-09-11",
   "notes": [
-    "Reparte el trabajo muscular según los días y minutos disponibles, con atención al trabajo directo de brazos.",
-    "Añade variedad controlada, preferencias de ejercicios y configuraciones de máquinas.",
-    "Ajusta las cargas con tu historial y esfuerzo registrado; calibra los ejercicios sin referencias comparables. Actualiza móvil y Wear OS juntos."
+    "Corrige la omisión del hombro lateral y reserva trabajo directo de hombro posterior cuando cabe en tu semana.",
+    "Agrupa mejor los accesorios para conservar el reparto de hombros, piernas, brazos y core.",
+    "Muestra por separado las limitaciones de trabajo directo e indirecto. Actualiza Android y Wear OS juntos."
   ],
   "wearOs": {
-    "version": "1.11.0",
-    "versionCode": 391,
+    "version": "1.11.1",
+    "versionCode": 401,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.11.0/ALZA-gym-WearOS-v1.11.0.apk",
-    "sha256": "E4383A760427E9D6D533E34E953A9D1BF71A63D504DAE1DCB0B18A31CABFD1B1"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.11.1/ALZA-gym-WearOS-v1.11.1.apk",
+    "sha256": "86798FA1E6CB026F5954288A0124E99A84C41D09FCB554C7312F0FD702FD6C78"
   }
 }
