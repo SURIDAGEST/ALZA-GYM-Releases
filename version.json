@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.11.1",
-  "versionCode": 400,
+  "version": "1.12.0",
+  "versionCode": 410,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.11.1/ALZA-gym-Android-v1.11.1.apk",
-  "sha256": "4167EE3E75E7BD1D737225CA9D2BBFD3AFA15C19423386597900E3E797748E5D",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.12.0/ALZA-gym-Android-v1.12.0.apk",
+  "sha256": "7A325A40B558EA92FD8AB9B0AAE4AA45F62A4E1B8987A6A974A0B95926682C9E",
   "publishedAt": "2026-09-11",
   "notes": [
-    "Corrige la omisión del hombro lateral y reserva trabajo directo de hombro posterior cuando cabe en tu semana.",
-    "Agrupa mejor los accesorios para conservar el reparto de hombros, piernas, brazos y core.",
-    "Muestra por separado las limitaciones de trabajo directo e indirecto. Actualiza Android y Wear OS juntos."
+    "Cinco entrenos por grupos musculares con cuatro o más días disponibles; gemelos en ambos días de piernas.",
+    "El ciclo continúa la semana siguiente y avanza al completar entrenamientos. Con tres días o menos se agrupan las sesiones.",
+    "Calendario y propuesta del día comparten el siguiente entreno pendiente. Actualiza Android y Wear OS juntos."
   ],
   "wearOs": {
-    "version": "1.11.1",
-    "versionCode": 401,
+    "version": "1.12.0",
+    "versionCode": 411,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.11.1/ALZA-gym-WearOS-v1.11.1.apk",
-    "sha256": "86798FA1E6CB026F5954288A0124E99A84C41D09FCB554C7312F0FD702FD6C78"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.12.0/ALZA-gym-WearOS-v1.12.0.apk",
+    "sha256": "75282823684686A42749DA8BFD4266EBFC3F8727B12F51B7CD8148DD11963B23"
   }
 }
