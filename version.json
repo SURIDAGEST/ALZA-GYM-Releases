@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.12.2",
-  "versionCode": 430,
+  "version": "1.12.3",
+  "versionCode": 440,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.12.2/ALZA-gym-Android-v1.12.2.apk",
-  "sha256": "41F1D0BC146043F4F548D86F25DABC5FF3DE411E46CF36C0E33CB35C6DA03CF2",
-  "publishedAt": "2026-09-12",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.12.3/ALZA-gym-Android-v1.12.3.apk",
+  "sha256": "2FEAEAE92F3EEBB91C055391B9F8C93210999DCAC7706DC245A217BB68EA4F0E",
+  "publishedAt": "2026-09-14",
   "notes": [
-    "Hombros: series repartidas según nivel y tiempo, con core siempre al final.",
-    "La duración prevista se calcula con los ejercicios, series y descansos del plan final.",
-    "Actualiza Android y Wear OS juntos. Se conserva el ciclo continuo de cinco entrenos."
+    "Cada sesión adapta ejercicios y series a 30, 45, 60, 75 o 90 minutos.",
+    "Hombros conserva hasta cinco ejercicios y coloca siempre el core al final.",
+    "Actualiza Android y Wear OS juntos. El ciclo de cinco entrenos continúa entre semanas."
   ],
   "wearOs": {
-    "version": "1.12.2",
-    "versionCode": 431,
+    "version": "1.12.3",
+    "versionCode": 441,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.12.2/ALZA-gym-WearOS-v1.12.2.apk",
-    "sha256": "AA7C0EC8737BAEA283FC3EBEE2B6194B1CAFD7E9DF0B95D52202F39547584B8F"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.12.3/ALZA-gym-WearOS-v1.12.3.apk",
+    "sha256": "BCE651EC31C0720DE569BB15F6CEA260D490A63C97826B9F7C90D5AA5A9E5A06"
   }
 }
