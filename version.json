@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.12.4",
-  "versionCode": 450,
+  "version": "1.13.0",
+  "versionCode": 460,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.12.4/ALZA-gym-Android-v1.12.4.apk",
-  "sha256": "B1A1185001BF01B979503CB89D62F636CDFE5FAFAA3EAA90DD89B0D5E4BD1249",
-  "publishedAt": "2026-09-15",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.0/ALZA-gym-Android-v1.13.0.apk",
+  "sha256": "8B043A968B9808D88E7C0FF636B565F91B00DA47B123D11B9041D0C7A7FD8429",
+  "publishedAt": "2026-09-16",
   "notes": [
-    "Separa siempre los dos entrenamientos de pierna con una sesión de torso.",
-    "Conserva el siguiente entrenamiento pendiente aunque cambie el planificador.",
-    "Mantiene el ciclo continuo de cinco sesiones y usa el historial real para avanzarlo."
+    "Despliega la sesión completa con ejercicios, series, descansos, cargas y adaptaciones personales.",
+    "Guía la progresión con registros reales: calibrar, consolidar, progresar o priorizar recuperación.",
+    "Conserva las correcciones del ciclo continuo y el siguiente entrenamiento pendiente."
   ],
   "wearOs": {
-    "version": "1.12.4",
-    "versionCode": 451,
+    "version": "1.13.0",
+    "versionCode": 461,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.12.4/ALZA-gym-WearOS-v1.12.4.apk",
-    "sha256": "CE1E65D5548C4099C890C3AE4F8205AA7ECDB86F51025BF04D4CC1B701C978F5"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.0/ALZA-gym-WearOS-v1.13.0.apk",
+    "sha256": "4C4E600C87A1DEA80AE6446E60CDBAAFF69846AF12EE4A141EFEC1B01C8BDFBD"
   }
 }
