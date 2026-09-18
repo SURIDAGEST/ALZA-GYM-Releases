@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.3",
-  "versionCode": 490,
+  "version": "1.13.4",
+  "versionCode": 500,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.3/ALZA-gym-Android-v1.13.3.apk",
-  "sha256": "4C2773B780AD0A55F83E5F1600CAF7041C8B58A75D708AEB7FB4D935E3EDD812",
-  "publishedAt": "2026-09-17",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.4/ALZA-gym-Android-v1.13.4.apk",
+  "sha256": "A15F35773B44F1C669F5E07B28B64E8D7919D983196ECCE45864509434584769",
+  "publishedAt": "2026-09-18",
   "notes": [
-    "Añade una tercera serie de hip thrust en sesiones posteriores largas de nivel avanzado cuando cabe en el tiempo disponible.",
-    "Reequilibra los glúteos entre las sesiones de pierna sin aumentar el volumen total del ciclo ni reducir el trabajo de cuádriceps.",
-    "Mantiene el inicio compacto, los descansos reales y los límites por dolor, recuperación y material; conserva los entrenos ya iniciados."
+    "Corrige las alternativas de gemelos cuando falta la máquina, incluso si los dos ejercicios anteriores ya están en la sesión.",
+    "Añade elevaciones a una pierna con mancuerna o peso corporal y adapta las repeticiones y la carga a cada variante.",
+    "Conserva la sesión activa, las series completadas y los descansos; incluye guías compatibles con móvil y relojes."
   ],
   "wearOs": {
-    "version": "1.13.3",
-    "versionCode": 491,
+    "version": "1.13.4",
+    "versionCode": 501,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.3/ALZA-gym-WearOS-v1.13.3.apk",
-    "sha256": "AD46AF9D4BC7A372AD36CCF98067A0854E871D24C4CAC48BB8E7E1FA57A616F8"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.4/ALZA-gym-WearOS-v1.13.4.apk",
+    "sha256": "43A878F88EAE470A7A1EB566503F3137EC0C62FBC23C7991932BEFFED98C82E8"
   }
 }
