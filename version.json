@@ -1,22 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.4",
-  "versionCode": 500,
+  "version": "1.13.5",
+  "versionCode": 510,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.4/ALZA-gym-Android-v1.13.4.apk",
-  "sha256": "A15F35773B44F1C669F5E07B28B64E8D7919D983196ECCE45864509434584769",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.5/ALZA-gym-Android-v1.13.5.apk",
+  "sha256": "B41FF0455EC4744B028DB5936652A237C12A4A684CA00E0D0B096D7470ECB477",
   "publishedAt": "2026-09-18",
   "notes": [
-    "Corrige las alternativas de gemelos cuando falta la máquina, incluso si los dos ejercicios anteriores ya están en la sesión.",
-    "Añade elevaciones a una pierna con mancuerna o peso corporal y adapta las repeticiones y la carga a cada variante.",
-    "Conserva la sesión activa, las series completadas y los descansos; incluye guías compatibles con móvil y relojes."
+    "Añade un cronómetro para planchas y ejercicios por duración, con inicio, pausa, reinicio y registro del tiempo real.",
+    "Conserva el tiempo al cambiar de pantalla o recuperar la sesión; separa el cronómetro del descanso.",
+    "Reinicia el cronómetro para cada lado sin guardar ni consumir otra serie.",
+    "Incluye controles de tiempo en Wear OS y conserva los registros y alternativas de gemelos."
   ],
   "wearOs": {
-    "version": "1.13.4",
-    "versionCode": 501,
+    "version": "1.13.5",
+    "versionCode": 511,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.4/ALZA-gym-WearOS-v1.13.4.apk",
-    "sha256": "43A878F88EAE470A7A1EB566503F3137EC0C62FBC23C7991932BEFFED98C82E8"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.5/ALZA-gym-WearOS-v1.13.5.apk",
+    "sha256": "25CFBA6B15297A260DE1F2756123E9279AFC2C59DE0CC449AC4A2326CD1076BF"
   }
 }
