@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.5",
-  "versionCode": 510,
+  "version": "1.13.6",
+  "versionCode": 520,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.5/ALZA-gym-Android-v1.13.5.apk",
-  "sha256": "B41FF0455EC4744B028DB5936652A237C12A4A684CA00E0D0B096D7470ECB477",
-  "publishedAt": "2026-09-18",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.6/ALZA-gym-Android-v1.13.6.apk",
+  "sha256": "07AA699AEFAA7039ED9CB4FC6225BA1A114014BAE05305A9C378F2DA68516BFB",
+  "publishedAt": "2026-09-21",
   "notes": [
-    "Añade un cronómetro para planchas y ejercicios por duración, con inicio, pausa, reinicio y registro del tiempo real.",
-    "Conserva el tiempo al cambiar de pantalla o recuperar la sesión; separa el cronómetro del descanso.",
-    "Reinicia el cronómetro para cada lado sin guardar ni consumir otra serie.",
-    "Incluye controles de tiempo en Wear OS y conserva los registros y alternativas de gemelos."
+    "Corrige la sincronización automática que podía quedar bloqueada en Android aunque hubiese conexión.",
+    "Reintenta de forma segura los cambios locales y conserva las colas durante errores temporales.",
+    "Evita colisiones entre entrenamientos importados de distintas cuentas y elimina duplicados heredados.",
+    "Protege el historial y los cambios pendientes durante la recuperación de cuenta y la exportación."
   ],
   "wearOs": {
-    "version": "1.13.5",
-    "versionCode": 511,
+    "version": "1.13.6",
+    "versionCode": 521,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.5/ALZA-gym-WearOS-v1.13.5.apk",
-    "sha256": "25CFBA6B15297A260DE1F2756123E9279AFC2C59DE0CC449AC4A2326CD1076BF"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.6/ALZA-gym-WearOS-v1.13.6.apk",
+    "sha256": "4F2B92E883DDBA0C469A3DBABCCF85A30B6C65DAAB1FBDDE7E4BC940D76B61A0"
   }
 }
