@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.6",
-  "versionCode": 520,
+  "version": "1.13.7",
+  "versionCode": 530,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.6/ALZA-gym-Android-v1.13.6.apk",
-  "sha256": "07AA699AEFAA7039ED9CB4FC6225BA1A114014BAE05305A9C378F2DA68516BFB",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.7/ALZA-gym-Android-v1.13.7.apk",
+  "sha256": "19757A86239995AB69E4F0FBE93BF507D48F57788D4B3719F6EFF80AB35BDE63",
   "publishedAt": "2026-09-21",
   "notes": [
-    "Corrige la sincronización automática que podía quedar bloqueada en Android aunque hubiese conexión.",
-    "Reintenta de forma segura los cambios locales y conserva las colas durante errores temporales.",
-    "Evita colisiones entre entrenamientos importados de distintas cuentas y elimina duplicados heredados.",
-    "Protege el historial y los cambios pendientes durante la recuperación de cuenta y la exportación."
+    "Calcula siempre una carga inicial entrenable con historial personal, equivalencias seguras o una estimación prudente basada en el perfil.",
+    "Corrige el cronómetro total al bloquear el móvil, pasar a segundo plano, recuperar la vista o entrenar desde Wear OS.",
+    "Wear OS muestra el final del descanso y emite una sola vibración aunque coincidan la alarma y la sincronización.",
+    "Reconcilia los cambios locales ya guardados en Supabase y evita que un fallo temporal bloquee el resto de la cola."
   ],
   "wearOs": {
-    "version": "1.13.6",
-    "versionCode": 521,
+    "version": "1.13.7",
+    "versionCode": 531,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.6/ALZA-gym-WearOS-v1.13.6.apk",
-    "sha256": "4F2B92E883DDBA0C469A3DBABCCF85A30B6C65DAAB1FBDDE7E4BC940D76B61A0"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.7/ALZA-gym-WearOS-v1.13.7.apk",
+    "sha256": "6C0FFC8DD99F98FBCAC74B7DD76075A1BC462C48506B23CAB42E5C24E7178456"
   }
 }
