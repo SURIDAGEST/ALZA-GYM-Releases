@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.7",
-  "versionCode": 530,
+  "version": "1.13.8",
+  "versionCode": 540,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.7/ALZA-gym-Android-v1.13.7.apk",
-  "sha256": "19757A86239995AB69E4F0FBE93BF507D48F57788D4B3719F6EFF80AB35BDE63",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.8/ALZA-gym-Android-v1.13.8.apk",
+  "sha256": "714F58C3034C2237DD38B725B9D426F4133B7F2D62FD149E01680F954726DB43",
   "publishedAt": "2026-09-21",
   "notes": [
-    "Calcula siempre una carga inicial entrenable con historial personal, equivalencias seguras o una estimación prudente basada en el perfil.",
-    "Corrige el cronómetro total al bloquear el móvil, pasar a segundo plano, recuperar la vista o entrenar desde Wear OS.",
-    "Wear OS muestra el final del descanso y emite una sola vibración aunque coincidan la alarma y la sincronización.",
-    "Reconcilia los cambios locales ya guardados en Supabase y evita que un fallo temporal bloquee el resto de la cola."
+    "Recupera los cambios locales que quedaron asociados al correo antiguo y los reasigna al UUID autenticado sin borrar la cola.",
+    "Repara las copias locales antiguas que no conservaban el identificador de cuenta y desbloquea la sincronización automática.",
+    "Reconoce las rutinas normalizadas por el servidor para no mantener como pendiente un cambio ya guardado.",
+    "Conserva la separación entre cuentas incluso si el usuario ha cambiado su dirección de correo."
   ],
   "wearOs": {
-    "version": "1.13.7",
-    "versionCode": 531,
+    "version": "1.13.8",
+    "versionCode": 541,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.7/ALZA-gym-WearOS-v1.13.7.apk",
-    "sha256": "6C0FFC8DD99F98FBCAC74B7DD76075A1BC462C48506B23CAB42E5C24E7178456"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.8/ALZA-gym-WearOS-v1.13.8.apk",
+    "sha256": "E90C71F54522E930112BD619975927EEA909D605B690A0BEAAB1CB85CE9754EC"
   }
 }
