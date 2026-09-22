@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.10",
-  "versionCode": 560,
+  "version": "1.13.11",
+  "versionCode": 570,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.10/ALZA-gym-Android-v1.13.10.apk",
-  "sha256": "26B207C55A2759CA903ABDC11B9E86AAA45B7E591AD096FB512069230C50ECBC",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.11/ALZA-gym-Android-v1.13.11.apk",
+  "sha256": "01CDE1F45F25D624845263A16EBF01A5DB8F88AC7238DEC3DC259168C4F1C796",
   "publishedAt": "2026-09-22",
   "notes": [
-    "Aprovecha la sesión avanzada de pecho y tríceps de 75 minutos con cuatro ejercicios de pecho de cuatro series y tres ejercicios de tríceps de tres series.",
-    "Combina press horizontal, press inclinado y aperturas para evitar variantes redundantes y conserva todo el pecho antes del tríceps.",
-    "Calcula unos 74 minutos reales incluyendo calentamiento, descansos y cambios, con una reserva operativa de un minuto.",
-    "Distingue una reserva pequeña del tiempo verdaderamente no utilizado en la explicación de la sesión."
+    "Registra la extensión de tríceps sobre la cabeza como una sola mancuerna y un único peso, también en móvil y Wear OS.",
+    "Incluye uno o dos ejercicios de core al final de cada sesión de pierna según la exigencia de la parte principal.",
+    "Ordena primero los movimientos multiarticulares más demandantes, como la sentadilla hack, antes de aislamientos, gemelos y core.",
+    "Mantiene cuádriceps, glúteos o femoral como foco visible y limita los bloques complementarios según el tiempo real."
   ],
   "wearOs": {
-    "version": "1.13.10",
-    "versionCode": 561,
+    "version": "1.13.11",
+    "versionCode": 571,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.10/ALZA-gym-WearOS-v1.13.10.apk",
-    "sha256": "FFD99F6E1EE09B4189AC39C52294AEF81E6C8B7D8673B14643BF199687F2321C"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.11/ALZA-gym-WearOS-v1.13.11.apk",
+    "sha256": "2B3C87C0C97B4666C618BED9BA3E2E15B0AFC60B258211826C2D8C8244F75667"
   }
 }
