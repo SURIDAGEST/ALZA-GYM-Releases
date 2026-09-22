@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.11",
-  "versionCode": 570,
+  "version": "1.13.12",
+  "versionCode": 580,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.11/ALZA-gym-Android-v1.13.11.apk",
-  "sha256": "01CDE1F45F25D624845263A16EBF01A5DB8F88AC7238DEC3DC259168C4F1C796",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.12/ALZA-gym-Android-v1.13.12.apk",
+  "sha256": "847C173A6E171AB736657D9BCF9859960B018A9D8E31C44D77BB8C23EE408FC0",
   "publishedAt": "2026-09-22",
   "notes": [
-    "Registra la extensión de tríceps sobre la cabeza como una sola mancuerna y un único peso, también en móvil y Wear OS.",
-    "Incluye uno o dos ejercicios de core al final de cada sesión de pierna según la exigencia de la parte principal.",
-    "Ordena primero los movimientos multiarticulares más demandantes, como la sentadilla hack, antes de aislamientos, gemelos y core.",
-    "Mantiene cuádriceps, glúteos o femoral como foco visible y limita los bloques complementarios según el tiempo real."
+    "Separa la versión del método de entrenamiento de la versión técnica del planificador.",
+    "Protege prioridad muscular, series, orden, core y tiempo con una matriz de 108 escenarios y una huella estructural.",
+    "Mantiene sin cambios arbitrarios la prescripción avanzada de pecho y tríceps, el core ligado a la demanda de pierna y los ejercicios complejos primero.",
+    "Muestra en el plan qué versión del método ha generado el ciclo."
   ],
   "wearOs": {
-    "version": "1.13.11",
-    "versionCode": 571,
+    "version": "1.13.12",
+    "versionCode": 581,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.11/ALZA-gym-WearOS-v1.13.11.apk",
-    "sha256": "2B3C87C0C97B4666C618BED9BA3E2E15B0AFC60B258211826C2D8C8244F75667"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.12/ALZA-gym-WearOS-v1.13.12.apk",
+    "sha256": "F74A5D98BF6E1C15C030F2731EB1DD5C21301185C807CEEC037EFF751EDD70B8"
   }
 }
