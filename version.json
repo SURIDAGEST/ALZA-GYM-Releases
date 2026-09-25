@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.12",
-  "versionCode": 580,
+  "version": "1.13.13",
+  "versionCode": 590,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.12/ALZA-gym-Android-v1.13.12.apk",
-  "sha256": "847C173A6E171AB736657D9BCF9859960B018A9D8E31C44D77BB8C23EE408FC0",
-  "publishedAt": "2026-09-22",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.13/ALZA-gym-Android-v1.13.13.apk",
+  "sha256": "703DC7F395AEA50B11A5D7769D507856C640AE348FEB062CED5CC5CC9BE2AFB3",
+  "publishedAt": "2026-09-25",
   "notes": [
-    "Separa la versión del método de entrenamiento de la versión técnica del planificador.",
-    "Protege prioridad muscular, series, orden, core y tiempo con una matriz de 108 escenarios y una huella estructural.",
-    "Mantiene sin cambios arbitrarios la prescripción avanzada de pecho y tríceps, el core ligado a la demanda de pierna y los ejercicios complejos primero.",
-    "Muestra en el plan qué versión del método ha generado el ciclo."
+    "Recupera al abrir la app las acciones duraderas que el reloj dejó pendientes.",
+    "Entrega los cambios nuevos por una vía inmediata y conserva la cola persistente como respaldo.",
+    "Reconcilia el mismo entreno iniciado casi a la vez en reloj y teléfono para no dejar series antiguas bloqueadas.",
+    "Mantiene la sincronización con Supabase después de aplicar cada cambio en el móvil."
   ],
   "wearOs": {
-    "version": "1.13.12",
-    "versionCode": 581,
+    "version": "1.13.13",
+    "versionCode": 591,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.12/ALZA-gym-WearOS-v1.13.12.apk",
-    "sha256": "F74A5D98BF6E1C15C030F2731EB1DD5C21301185C807CEEC037EFF751EDD70B8"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.13/ALZA-gym-WearOS-v1.13.13.apk",
+    "sha256": "F3DBF0F45BF1C9FBC373CABC86664C62816A2075D9F9A3DBD2D6EDE76EA188C8"
   }
 }
