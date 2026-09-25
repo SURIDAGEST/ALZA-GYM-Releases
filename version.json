@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.13",
-  "versionCode": 590,
+  "version": "1.13.14",
+  "versionCode": 600,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.13/ALZA-gym-Android-v1.13.13.apk",
-  "sha256": "703DC7F395AEA50B11A5D7769D507856C640AE348FEB062CED5CC5CC9BE2AFB3",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.14/ALZA-gym-Android-v1.13.14.apk",
+  "sha256": "2D0E83FBBB463FCF1827B098D55EA3A6A959291BFC2EEF12CC9BA0CED8117CE4",
   "publishedAt": "2026-09-25",
   "notes": [
-    "Recupera al abrir la app las acciones duraderas que el reloj dejó pendientes.",
-    "Entrega los cambios nuevos por una vía inmediata y conserva la cola persistente como respaldo.",
-    "Reconcilia el mismo entreno iniciado casi a la vez en reloj y teléfono para no dejar series antiguas bloqueadas.",
-    "Mantiene la sincronización con Supabase después de aplicar cada cambio en el móvil."
+    "Los botones − y + cambian la carga exactamente de 5 en 5 kg.",
+    "La cifra del peso se puede tocar y editar con cualquier valor, incluidos decimales.",
+    "El dictado por voz conserva la carga exacta en vez de ajustarla a una lista predefinida.",
+    "Wear OS permite escribir el peso exacto desde el reloj y mantiene hasta dos decimales."
   ],
   "wearOs": {
-    "version": "1.13.13",
-    "versionCode": 591,
+    "version": "1.13.14",
+    "versionCode": 601,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.13/ALZA-gym-WearOS-v1.13.13.apk",
-    "sha256": "F3DBF0F45BF1C9FBC373CABC86664C62816A2075D9F9A3DBD2D6EDE76EA188C8"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.14/ALZA-gym-WearOS-v1.13.14.apk",
+    "sha256": "C5FC45D6596C5F568619DB8D15A60C1566CBC2D26DF746619FD0E9CE81B82483"
   }
 }
