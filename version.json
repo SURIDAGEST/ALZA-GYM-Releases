@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.14",
-  "versionCode": 600,
+  "version": "1.13.15",
+  "versionCode": 610,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.14/ALZA-gym-Android-v1.13.14.apk",
-  "sha256": "2D0E83FBBB463FCF1827B098D55EA3A6A959291BFC2EEF12CC9BA0CED8117CE4",
-  "publishedAt": "2026-09-25",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.15/ALZA-gym-Android-v1.13.15.apk",
+  "sha256": "1D58C00782627A9623CD00A9A7839F5633D03A5D27E49445F9B0985A1EB821BA",
+  "publishedAt": "2026-09-27",
   "notes": [
-    "Los botones − y + cambian la carga exactamente de 5 en 5 kg.",
-    "La cifra del peso se puede tocar y editar con cualquier valor, incluidos decimales.",
-    "El dictado por voz conserva la carga exacta en vez de ajustarla a una lista predefinida.",
-    "Wear OS permite escribir el peso exacto desde el reloj y mantiene hasta dos decimales."
+    "El ciclo controla por separado 19 regiones musculares y avisa si alguna queda sin cobertura.",
+    "Bíceps, braquial y antebrazo reciben funciones distintas antes de repetir variantes.",
+    "El tibial anterior ya cuenta como región entrenable y no queda oculto dentro de gemelos.",
+    "El plan prioriza la cobertura coordinada sin confundirla con una promesa de crecimiento biológico idéntico."
   ],
   "wearOs": {
-    "version": "1.13.14",
-    "versionCode": 601,
+    "version": "1.13.15",
+    "versionCode": 611,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.14/ALZA-gym-WearOS-v1.13.14.apk",
-    "sha256": "C5FC45D6596C5F568619DB8D15A60C1566CBC2D26DF746619FD0E9CE81B82483"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.15/ALZA-gym-WearOS-v1.13.15.apk",
+    "sha256": "61F47A39E2CEB9707B5E8554F707AF308B97F26BDC6D93B607A229115C758883"
   }
 }
