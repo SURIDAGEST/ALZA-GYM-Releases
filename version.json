@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.15",
-  "versionCode": 610,
+  "version": "1.13.22",
+  "versionCode": 680,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.15/ALZA-gym-Android-v1.13.15.apk",
-  "sha256": "1D58C00782627A9623CD00A9A7839F5633D03A5D27E49445F9B0985A1EB821BA",
-  "publishedAt": "2026-09-27",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.22/ALZA-gym-Android-v1.13.22.apk",
+  "sha256": "B4B2CA10F4BC3B214D1D6E76CFB170B262C3A69FA05EA9AD0B6ED0F9AC434DE8",
+  "publishedAt": "2026-10-02",
   "notes": [
-    "El ciclo controla por separado 19 regiones musculares y avisa si alguna queda sin cobertura.",
-    "Bíceps, braquial y antebrazo reciben funciones distintas antes de repetir variantes.",
-    "El tibial anterior ya cuenta como región entrenable y no queda oculto dentro de gemelos.",
-    "El plan prioriza la cobertura coordinada sin confundirla con una promesa de crecimiento biológico idéntico."
+    "Se incorporan 30 ejercicios nuevos al catálogo, que alcanza 153 ejercicios.",
+    "Las imágenes de los ejercicios se han revisado para mantener un formato visual coherente.",
+    "Se han rehecho las imágenes que no representaban correctamente el ejercicio correspondiente.",
+    "Se mejora la estabilidad del inicio y la reanudación del entrenamiento en Android."
   ],
   "wearOs": {
-    "version": "1.13.15",
-    "versionCode": 611,
+    "version": "1.13.22",
+    "versionCode": 681,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.15/ALZA-gym-WearOS-v1.13.15.apk",
-    "sha256": "61F47A39E2CEB9707B5E8554F707AF308B97F26BDC6D93B607A229115C758883"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.22/ALZA-gym-WearOS-v1.13.22.apk",
+    "sha256": "B3F3FD451672A974763A823AE80987DE7A16A94B48A966CE4AF3FB179435972A"
   }
 }
