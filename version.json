@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.22",
-  "versionCode": 680,
+  "version": "1.13.23",
+  "versionCode": 690,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.22/ALZA-gym-Android-v1.13.22.apk",
-  "sha256": "B4B2CA10F4BC3B214D1D6E76CFB170B262C3A69FA05EA9AD0B6ED0F9AC434DE8",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.23/ALZA-gym-Android-v1.13.23.apk",
+  "sha256": "B9AD37B8343931088CA97FEA0D938A24CAFCFC3845CA7C788EBE12020FC7DCEE",
   "publishedAt": "2026-10-02",
   "notes": [
-    "Se incorporan 30 ejercicios nuevos al catálogo, que alcanza 153 ejercicios.",
-    "Las imágenes de los ejercicios se han revisado para mantener un formato visual coherente.",
-    "Se han rehecho las imágenes que no representaban correctamente el ejercicio correspondiente.",
-    "Se mejora la estabilidad del inicio y la reanudación del entrenamiento en Android."
+    "Cada sesión comienza con un ejercicio de bombeo y aislamiento del músculo principal cuando existe una opción compatible.",
+    "En pecho se priorizan aperturas en polea o máquina antes de los presses.",
+    "La regla se aplica a todos los niveles y duraciones, respetando el material disponible y las molestias indicadas.",
+    "Después del bombeo inicial se mantienen los ejercicios compuestos y el resto de la estructura del entrenamiento."
   ],
   "wearOs": {
-    "version": "1.13.22",
-    "versionCode": 681,
+    "version": "1.13.23",
+    "versionCode": 691,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.22/ALZA-gym-WearOS-v1.13.22.apk",
-    "sha256": "B3F3FD451672A974763A823AE80987DE7A16A94B48A966CE4AF3FB179435972A"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.23/ALZA-gym-WearOS-v1.13.23.apk",
+    "sha256": "777CE999CC4DB5171A32617D5040554166EBC751B653112E1450971B66B04966"
   }
 }
