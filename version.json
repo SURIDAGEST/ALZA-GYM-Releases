@@ -1,23 +1,23 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.23",
-  "versionCode": 690,
+  "version": "1.13.24",
+  "versionCode": 700,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.23/ALZA-gym-Android-v1.13.23.apk",
-  "sha256": "B9AD37B8343931088CA97FEA0D938A24CAFCFC3845CA7C788EBE12020FC7DCEE",
-  "publishedAt": "2026-10-02",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.24/ALZA-gym-Android-v1.13.24.apk",
+  "sha256": "FF13EB5967EB76E5A2CA9131DBBC07EB1C1013D8E5BA233705296A5FAFD3B2BE",
+  "publishedAt": "2026-10-05",
   "notes": [
-    "Cada sesión comienza con un ejercicio de bombeo y aislamiento del músculo principal cuando existe una opción compatible.",
-    "En pecho se priorizan aperturas en polea o máquina antes de los presses.",
-    "La regla se aplica a todos los niveles y duraciones, respetando el material disponible y las molestias indicadas.",
-    "Después del bombeo inicial se mantienen los ejercicios compuestos y el resto de la estructura del entrenamiento."
+    "El tiempo elegido pasa a ser un objetivo real de planificación con una reserva operativa pequeña y explícita.",
+    "Una sesión automática de 75 minutos queda normalmente en torno a 70 minutos, sin volver a detenerse en 54–57.",
+    "El motor añade primero trabajo útil dentro de los límites y después amplía descansos reales de forma limitada.",
+    "Las restricciones, los ajustes por fatiga y las rutinas manuales mantienen su comportamiento prudente."
   ],
   "wearOs": {
-    "version": "1.13.23",
-    "versionCode": 691,
+    "version": "1.13.24",
+    "versionCode": 701,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.23/ALZA-gym-WearOS-v1.13.23.apk",
-    "sha256": "777CE999CC4DB5171A32617D5040554166EBC751B653112E1450971B66B04966"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.24/ALZA-gym-WearOS-v1.13.24.apk",
+    "sha256": "C1D789F17626D68ADA0791209D2FCAE47D51D679530078C5D11122185B7DEBAE"
   }
 }
