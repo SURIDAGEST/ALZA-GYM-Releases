@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.26",
-  "versionCode": 760,
+  "version": "1.13.29",
+  "versionCode": 770,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.26-r76/ALZA-gym-Android-v1.13.26.apk",
-  "sha256": "A34E30FE28B20C8F9FA1A6E87718DACAA48AE35CCA2E80A87E1A87793BCE6F82",
-  "publishedAt": "2026-10-29",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.29-r77/ALZA-gym-Android-v1.13.29.apk",
+  "sha256": "4F3A86A0805F796BA3BFBC315CE182FA180E3C6F2C63ED2D819006790FAA2430",
+  "publishedAt": "2026-11-05",
   "notes": [
-    "Restauración de la versión 1.13.26: interfaz y funcionamiento anteriores.",
-    "Edad mínima de 16 años en la cuenta y las condiciones de uso.",
+    "La cabecera del entrenamiento respeta la barra de estado y sus iconos.",
+    "Buscar alternativa conserva el tiempo de descanso y su estado de pausa.",
     "Android y Wear OS coordinados y firmados con la clave original de ALZA."
   ],
   "wearOs": {
-    "version": "1.13.26",
-    "versionCode": 761,
+    "version": "1.13.29",
+    "versionCode": 771,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.26-r76/ALZA-gym-WearOS-v1.13.26.apk",
-    "sha256": "6829FC8A0875D95278F5712776E153A7B28F5B1F89938E45F0B68A8045DFFADB"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.29-r77/ALZA-gym-WearOS-v1.13.29.apk",
+    "sha256": "7D9A475FF791E7B63F2BA808448CDF76570BC8BAA9FDB676F3886D19FC0BF786"
   }
 }
