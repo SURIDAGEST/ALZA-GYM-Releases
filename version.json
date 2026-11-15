@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.30",
-  "versionCode": 780,
+  "version": "1.13.32",
+  "versionCode": 800,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.30-r78/ALZA-gym-Android-v1.13.30.apk",
-  "sha256": "35B5E31D90E6A81A2D73EBCE0E95A5A893FFE10912478EE7BFCE5F351A8FFE29",
-  "publishedAt": "2026-11-07",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.32-r80/ALZA-gym-Android-v1.13.32.apk",
+  "sha256": "E214648E8C7F721AF917E2D878EDDE1303096D14609A232141065A506EDC912E",
+  "publishedAt": "2026-11-16",
   "notes": [
-    "Elevación de gemelos sin carga con ambos pies en «Buscar alternativa».",
-    "El entrenamiento conserva las repeticiones y el descanso y usa el equipo de «Ajustes de hoy».",
-    "La espera de sincronización con Wear OS al reanudar tiene un límite."
+    "Rediseño móvil de Inicio, Plan, Progreso y Ejercicios.",
+    "Plan abre la sesión que toca y Ejercicios conserva la búsqueda al volver de una ficha.",
+    "Variedad de máquinas y agarres disponibles. Las sesiones de cuádriceps conservan sus series al ajustar el tiempo."
   ],
   "wearOs": {
-    "version": "1.13.30",
-    "versionCode": 781,
+    "version": "1.13.32",
+    "versionCode": 801,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.30-r78/ALZA-gym-WearOS-v1.13.30.apk",
-    "sha256": "2DE8979AB588C65804352B67631A6EFF1BB30366804C9F258F25B33F47DC975E"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.32-r80/ALZA-gym-WearOS-v1.13.32.apk",
+    "sha256": "C88F3073923B7120957942FEE398D2B286C476B382325CE181AF457B4DE00851"
   }
 }
