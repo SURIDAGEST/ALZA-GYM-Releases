@@ -1,22 +1,22 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.32",
-  "versionCode": 800,
+  "version": "1.13.33",
+  "versionCode": 810,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.32-r80/ALZA-gym-Android-v1.13.32.apk",
-  "sha256": "E214648E8C7F721AF917E2D878EDDE1303096D14609A232141065A506EDC912E",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.33-r81/ALZA-gym-Android-v1.13.33.apk",
+  "sha256": "FCF1A66660F28B30E17FB789267561598460D832FDA67C54836D432775160229",
   "publishedAt": "2026-11-16",
   "notes": [
-    "Rediseño móvil de Inicio, Plan, Progreso y Ejercicios.",
-    "Plan abre la sesión que toca y Ejercicios conserva la búsqueda al volver de una ficha.",
-    "Variedad de máquinas y agarres disponibles. Las sesiones de cuádriceps conservan sus series al ajustar el tiempo."
+    "Entrenar muestra la serie actual, el peso, las repeticiones y Guardar serie al abrir cada ejercicio.",
+    "Técnica y Buscar alternativa tienen acceso directo junto al registro.",
+    "El descanso y el autoguardado siguen disponibles durante la sesión."
   ],
   "wearOs": {
-    "version": "1.13.32",
-    "versionCode": 801,
+    "version": "1.13.33",
+    "versionCode": 811,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.32-r80/ALZA-gym-WearOS-v1.13.32.apk",
-    "sha256": "C88F3073923B7120957942FEE398D2B286C476B382325CE181AF457B4DE00851"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.33-r81/ALZA-gym-WearOS-v1.13.33.apk",
+    "sha256": "CBC4582D4CC28FA04774EE5469B262042497D882CDBEA656FF62B83A5E9D88AD"
   }
 }
