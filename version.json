@@ -1,21 +1,21 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.39",
-  "versionCode": 870,
+  "version": "1.13.40",
+  "versionCode": 880,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.39-r87/ALZA-gym-Android-v1.13.39.apk",
-  "sha256": "BA9B2C9561B01E4C53E23917BA9449F19E84FAACC7D6201E4504F25CE30897B7",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.40-r88/ALZA-gym-Android-v1.13.40.apk",
+  "sha256": "021D503F46A06BE226F8820665470944FA30940EC9AB3BF8031A2AD2356FAB6D",
   "publishedAt": "2026-11-16",
   "notes": [
-    "Revisa las propuestas de tu entrenador desde Plan aunque pierdas el enlace.",
-    "Compara los cambios y activa la propuesta cuando la aceptes."
+    "Consulta los ajustes de máquina y el agarre en Entrenar antes de la primera serie.",
+    "Última vez usa el historial de esa misma máquina y agarre."
   ],
   "wearOs": {
-    "version": "1.13.39",
-    "versionCode": 871,
+    "version": "1.13.40",
+    "versionCode": 881,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.39-r87/ALZA-gym-WearOS-v1.13.39.apk",
-    "sha256": "4622A76E0AA5C5BAF1F93420F6F2518A549437709FFE981D806A42483D599B2D"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.40-r88/ALZA-gym-WearOS-v1.13.40.apk",
+    "sha256": "92553EE307558F4ACC51459606B1781426FB772C7ACD0999C88625E8CFA362F5"
   }
 }
