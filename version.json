@@ -1,21 +1,21 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.41",
-  "versionCode": 890,
+  "version": "1.13.42",
+  "versionCode": 900,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.41-r89/ALZA-gym-Android-v1.13.41.apk",
-  "sha256": "7F76F7E1A48298393B6CA496CC824627AE4454AFF4E51E61C0F7F5DB13438499",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.42-r90/ALZA-gym-Android-v1.13.42.apk",
+  "sha256": "58F06D9156FBC08299ACB776618834E6B50CE4084B05AEB82E88DF7C753BB25B",
   "publishedAt": "2026-11-17",
   "notes": [
-    "Consulta hasta tres sesiones desde Última vez, dentro de Entrenar.",
-    "Revisa fechas, series y esfuerzo de la misma máquina y agarre."
+    "Entrenar muestra de un vistazo la sesión, el tiempo y las series.",
+    "Abre Ejercicios y cargas cuando quieras ver el detalle."
   ],
   "wearOs": {
-    "version": "1.13.41",
-    "versionCode": 891,
+    "version": "1.13.42",
+    "versionCode": 901,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.41-r89/ALZA-gym-WearOS-v1.13.41.apk",
-    "sha256": "FDB98E2D6922121EEFAC77353670C73DF5BCC38145222D5EACD6FBE0880BC4C9"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.42-r90/ALZA-gym-WearOS-v1.13.42.apk",
+    "sha256": "62CE23E2DF883DEC34D46E414C252BA070DBBE1D689F85724B415F1AED365AD4"
   }
 }
