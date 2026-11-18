@@ -1,21 +1,21 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.44",
-  "versionCode": 920,
+  "version": "1.13.45",
+  "versionCode": 930,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.44-r92/ALZA-gym-Android-v1.13.44.apk",
-  "sha256": "4DB2BAB48BB17797A3E4F993D4187B7F4126BA78E0DDAF78F2C38BFC394B696D",
-  "publishedAt": "2026-11-18",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.45-r93/ALZA-gym-Android-v1.13.45.apk",
+  "sha256": "08EBC822B75885055730E3951A12678C2F5C3A350BC385441EE515F36A3444CB",
+  "publishedAt": "2026-11-19",
   "notes": [
-    "Máquina ocupada está junto a Técnica y Buscar alternativa en Entrenar.",
-    "Aplaza un ejercicio y consulta arriba las series pendientes y el ejercicio actual."
+    "Progreso muestra tarjetas comparables por máquina, agarre y ajustes, con series y esfuerzo reales.",
+    "Resumen compacto; peso y evolución corporal en Medidas, estadísticas plegadas y carga del método actual en Entrenar."
   ],
   "wearOs": {
-    "version": "1.13.44",
-    "versionCode": 921,
+    "version": "1.13.45",
+    "versionCode": 931,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.44-r92/ALZA-gym-WearOS-v1.13.44.apk",
-    "sha256": "1ABD9B023E67EC390032DA8F938F39076B75668AECCD800FB8F316CF9F679C69"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.45-r93/ALZA-gym-WearOS-v1.13.45.apk",
+    "sha256": "8AED670D1A74108FBDB80B9EBBD5B440523190F11047559FE579FD5261677365"
   }
 }
