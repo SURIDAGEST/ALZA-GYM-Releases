@@ -1,21 +1,21 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.43",
-  "versionCode": 910,
+  "version": "1.13.44",
+  "versionCode": 920,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.43-r91/ALZA-gym-Android-v1.13.43.apk",
-  "sha256": "B1BA5B69E25D45372EC155AE91BE5AE3A562718025C04E2D187042C3605C904E",
-  "publishedAt": "2026-11-17",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.44-r92/ALZA-gym-Android-v1.13.44.apk",
+  "sha256": "4DB2BAB48BB17797A3E4F993D4187B7F4126BA78E0DDAF78F2C38BFC394B696D",
+  "publishedAt": "2026-11-18",
   "notes": [
-    "El descanso reúne el cronómetro, el peso y el objetivo de la próxima serie.",
-    "Cuando ALZA ajusta la carga, la tarjeta muestra el motivo."
+    "Máquina ocupada está junto a Técnica y Buscar alternativa en Entrenar.",
+    "Aplaza un ejercicio y consulta arriba las series pendientes y el ejercicio actual."
   ],
   "wearOs": {
-    "version": "1.13.43",
-    "versionCode": 911,
+    "version": "1.13.44",
+    "versionCode": 921,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.43-r91/ALZA-gym-WearOS-v1.13.43.apk",
-    "sha256": "D829C9229514EFA81A950644E96CA4C16A0958D32EF7F07349241C0DD0B8C5E1"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.44-r92/ALZA-gym-WearOS-v1.13.44.apk",
+    "sha256": "1ABD9B023E67EC390032DA8F938F39076B75668AECCD800FB8F316CF9F679C69"
   }
 }
