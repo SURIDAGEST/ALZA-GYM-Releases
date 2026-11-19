@@ -1,21 +1,21 @@
 {
   "app": "ALZA gym",
   "platform": "android",
-  "version": "1.13.46",
-  "versionCode": 940,
+  "version": "1.13.47",
+  "versionCode": 950,
   "minimumAndroid": 9,
-  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.46-r94/ALZA-gym-Android-v1.13.46.apk",
-  "sha256": "85032F0604AE5F112FFAA7E96AF6A1A4C57FBFFE6C73E87261166FB937540653",
+  "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.47-r95/ALZA-gym-Android-v1.13.47.apk",
+  "sha256": "5BDF70F78DD927CB6CB33A459E1DBD64B3361FAA2025C38503ABEF9C5CC8120E",
   "publishedAt": "2026-11-19",
   "notes": [
-    "Corrige entrenos finalizados conservando el original y actualiza el progreso y las próximas cargas.",
-    "Guarda recordatorios por ejercicio y equipo, filtra el historial y elige el gimnasio de hoy sin cambiar el método."
+    "Calentamiento guiado con las cargas de tu equipo, repeticiones y descanso en la misma tarjeta.",
+    "Cada aproximación prepara la siguiente y después la primera serie efectiva, conservando el método y el peso de trabajo."
   ],
   "wearOs": {
-    "version": "1.13.46",
-    "versionCode": 941,
+    "version": "1.13.47",
+    "versionCode": 951,
     "minimumWearOs": 3,
-    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.46-r94/ALZA-gym-WearOS-v1.13.46.apk",
-    "sha256": "4DA38196BE204CDA99BD3A19E12F59B9FABA83273BBDFC07BFA553FEDD0ED8F7"
+    "downloadUrl": "https://github.com/SURIDAGEST/ALZA-GYM-Releases/releases/download/v1.13.47-r95/ALZA-gym-WearOS-v1.13.47.apk",
+    "sha256": "D92C10FDBAB0D6E0C04C862002684E54B7BA19F956DA1A6F5F4B9F4EF406D486"
   }
 }
